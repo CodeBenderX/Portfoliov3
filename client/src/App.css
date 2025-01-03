@@ -1,0 +1,16 @@
+/* App.css or any CSS file you're using */
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+footer.footer {
+  margin-top: auto; /* Push footer to the bottom of the page */
+}
